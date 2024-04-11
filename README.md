@@ -1,15 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://user-images.githubusercontent.com/51089028/224474463-4e9c160f-47c8-46e7-8af3-6e32c85a8f36.png" width="250"/>
- 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/charann06/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=charann29&style=flat-square&color=green" alt=""/>
+
   
    <h1>
     heyy , i am Charan  
