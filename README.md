@@ -24,6 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charann29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charann29&&theme=merko&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+![charann29's Stats](https://github-readme-stats.vercel.app/api?username=charann29&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+![charann29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=charann29&theme=cobalt&hide_border=false)
+![charann29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charann29&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
  </div>
