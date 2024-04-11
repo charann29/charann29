@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=charann29&style=flat-square&color=green" alt=""/>
   
    <h1>
-    heyy , i am Charan
+    heyy , i am Charan  
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
